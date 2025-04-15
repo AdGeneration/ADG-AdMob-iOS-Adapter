@@ -1,0 +1,3 @@
+//
+//  ADG-AdMob-iOS-Adapter
+//
