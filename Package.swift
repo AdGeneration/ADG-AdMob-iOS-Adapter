@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/AdGeneration/ADG-iOS-SDK.git",
-            from: "2.31.1"
+            from: "2.30.1"
         ),
         .package(
             url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
