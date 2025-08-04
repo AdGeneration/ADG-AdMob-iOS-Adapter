@@ -39,8 +39,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGAdMobAdapter",
-            url: "https://github.com/AdGeneration/ADG-AdMob-iOS-Adapter/releases/download/12.5.0/ADGAdMob.xcframework.zip",
-            checksum: "5a616a4e647388a72537a339dce037ff408d748c60312a911f6cfeace3f5d5b6"
+            url: "https://github.com/AdGeneration/ADG-iOS-Adapters/releases/download/admob%2F12.8.0/ADGAdMob.xcframework.zip",
+            checksum: "286f1c4c1bc7e87de06ffc7bf93312a41727df41d7cf0bcce934f8a3a4c1a1dd"
         ),
     ]
 )
