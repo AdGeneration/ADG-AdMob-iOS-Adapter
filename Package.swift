@@ -22,7 +22,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
-            exact: "13.10.0"
+            exact: "13.11.0"
         ),
     ],
     targets: [
@@ -39,8 +39,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGAdMobAdapter",
-            url: "https://github.com/AdGeneration/ADG-AdMob-iOS-Adapter/releases/download/13.10.0/ADGAdMob.xcframework.zip",
-            checksum: "bc7bacc3273f5e2073f8bdc28c2a3390f28f213edfadf79ba786df107a375df2"
+            url: "https://github.com/AdGeneration/ADG-AdMob-iOS-Adapter/releases/download/13.11.0/ADGAdMob.xcframework.zip",
+            checksum: "33b1c0b3a7a9d4361077a154fc8e555cf29b1e40d6348f40ff92d4b17d94dc61"
         ),
     ]
 )
