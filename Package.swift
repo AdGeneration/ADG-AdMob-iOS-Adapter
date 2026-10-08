@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "ADG-AdMob-iOS-Adapter",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v15)
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
@@ -39,7 +39,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGAdMobAdapter",
-            url: "https://github.com/AdGeneration/ADG-AdMob-iOS-Adapter/releases/download/13.11.0/ADGAdMob.xcframework.zip",
+            url: "https://github.com/AdGeneration/ADG-AdMob-iOS-Adapter/releases/download/13.11.1/ADGAdMob.xcframework.zip",
             checksum: "33b1c0b3a7a9d4361077a154fc8e555cf29b1e40d6348f40ff92d4b17d94dc61"
         ),
     ]
